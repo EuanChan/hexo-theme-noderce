@@ -1,15 +1,16 @@
 menu:
-  关于我: /about
-  文章归档: /archives
-  有情链接: /links
+  Home: /
+  Archives: /archives
+     
+  # 关于我: /about
+  # 文章归档: /archives
+  # 有情链接: /links
 
 excerpt_link: Read More ›
 
-google_analytics: UA-32857089-1
-
-rss: http://feeds.feedburner.com/willerce
+google_analytics: 
 
 comment_provider: duoshuo
 # Duoshuo comment
 duoshuo:
-  short_name: willerce
+  short_name: euanchan
